@@ -170,13 +170,20 @@ predict_image(model,image_index=80,dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss per Epoch
+![image](https://github.com/user-attachments/assets/88e5e9ab-669a-4c8e-9387-4677837f3f37)
+
 
 ## Confusion Matrix
+![image](https://github.com/user-attachments/assets/bf220126-fbd5-4788-b563-f635be084f3d)
+
 
 
 ## Classification Report
+![image](https://github.com/user-attachments/assets/274f5842-0d80-4853-9f81-a2b278c925bf)
+
 
 ### New Sample Data Prediction
+![image](https://github.com/user-attachments/assets/abf0f621-102c-4f2d-b46a-b630d8c02332)
 
 
 ## RESULT
