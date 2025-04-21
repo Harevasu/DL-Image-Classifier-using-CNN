@@ -7,8 +7,7 @@ The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0-9
 
 ## Neural Network Model
 
-![nn](https://github.com/user-attachments/assets/6e9416a3-9ac2-47d0-8b5e-390db55a425b)# DL-Convolutional Deep Neural Network for Image Classification
-
+![nn](https://github.com/user-attachments/assets/6e9416a3-9ac2-47d0-8b5e-390db55a425b)
 ## DESIGN STEPS
 ### STEP 1: 
 Import all the required libraries (PyTorch, TorchVision, NumPy, Matplotlib, etc.).
